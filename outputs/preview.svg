@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+<rect width="1100" height="300" fill="#101d2c"/>
+<text x="35" y="48" fill="#6fe5bc" font-family="Arial" font-size="14">GROWTH ANALYTICS / SYNTHETIC PORTFOLIO STUDY</text>
+<text x="35" y="90" fill="white" font-family="Arial" font-size="26">Paid Social Incrementality &amp; Lift</text>
+<text x="35" y="165" fill="#b8c8da" font-family="Arial" font-size="14">Absolute lift</text>
+<text x="35" y="209" fill="white" font-family="Arial" font-size="29">1.32 pp</text>
+<text x="300" y="165" fill="#b8c8da" font-family="Arial" font-size="14">95% lift interval</text>
+<text x="300" y="209" fill="white" font-family="Arial" font-size="29">0.91–1.73 pp</text>
+<text x="565" y="165" fill="#b8c8da" font-family="Arial" font-size="14">Incremental members</text>
+<text x="565" y="209" fill="white" font-family="Arial" font-size="29">262.8</text>
+<text x="830" y="165" fill="#b8c8da" font-family="Arial" font-size="14">Incremental CAC</text>
+<text x="830" y="209" fill="white" font-family="Arial" font-size="29">$45.66</text>
+<text x="35" y="270" fill="#b8c8da" font-family="Arial" font-size="13">Reproducible SQL + Python • Open the HTML dashboard for charts, filters, and evidence.</text>
+</svg>
